@@ -1,3 +1,3 @@
 MY PROJECT
-#This is Elizabeth's Project
-#My modified file to commit
+#This is Elizabeth's first project
+This code is very impportant to our company
