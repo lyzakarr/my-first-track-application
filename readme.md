@@ -3,3 +3,4 @@ MY PROJECT
 This code is very impportant to our company
 Introduction to branching
 created new branch
+ introduction to stash
